@@ -4,7 +4,9 @@
 
 Global Summit for Node.js'23 (JANUARY 25-26, 2023)
 
-Event website: https://events.geekle.us/nodejs2/
+> I published the project that was worked on in this talk at https://github.com/BaseMax/MyNodePackageManager. Feel free to check, download, star, and share.
+
+Event website: https://events.geekle.us/nodejs2/ and https://geekle.us/schedule/nodejs23
 
 ## Slides
 
