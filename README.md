@@ -1,4 +1,6 @@
-# Global Summit for NodeJS 2023
+# How NPM or Yarn are working; Going to create our own package manager
+
+## Global Summit for NodeJS 2023
 
 Global Summit for Node.js'23 (JANUARY 25-26, 2023)
 
